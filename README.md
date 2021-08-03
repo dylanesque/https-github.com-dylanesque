@@ -7,7 +7,7 @@
 
 - 🔭   I’m currently working on [MPQ Hall of Champions](https://github.com/dylanesque/MPQChampApp) and [Police Data Trust](https://github.com/codeforboston/police-data-trust).
 
-- 🌱   I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and learning Go from [Coursera](https://www.coursera.org/learn/golang-getting-started)
+- 🌱   I’m currently learning [advanced CSS](https://css-for-js.dev/) from [**Josh Comeau**](https://www.joshwcomeau.com/) and learning PostgreSQL from [Coursera](https://www.coursera.org/learn/intermediate-postgresql/home/welcome)
 
 - 📝   I regularly write articles on [https://dev.to/dylanesque](https://dev.to/dylanesque)
 
